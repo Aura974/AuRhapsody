@@ -1,0 +1,14 @@
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\bin\Debug\net7.0\Data.Entity.deps.json
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\bin\Debug\net7.0\Data.Entity.runtimeconfig.json
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\bin\Debug\net7.0\Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\bin\Debug\net7.0\Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\refint\Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\Data.Entity.genruntimeconfig.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Entity\obj\Debug\net7.0\ref\Data.Entity.dll

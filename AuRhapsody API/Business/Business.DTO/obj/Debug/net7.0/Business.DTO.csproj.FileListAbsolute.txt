@@ -1,0 +1,11 @@
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\bin\Debug\net7.0\Business.DTO.deps.json
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\bin\Debug\net7.0\Business.DTO.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\bin\Debug\net7.0\Business.DTO.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\refint\Business.DTO.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\Business.DTO.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.DTO\obj\Debug\net7.0\ref\Business.DTO.dll

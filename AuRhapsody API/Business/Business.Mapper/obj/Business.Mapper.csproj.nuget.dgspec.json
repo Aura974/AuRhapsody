@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.Mapper\\Business.Mapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\Business.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\Business.DTO.csproj",
+        "projectName": "Business.DTO",
+        "projectPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\Business.DTO.csproj",
+        "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.Mapper\\Business.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.Mapper\\Business.Mapper.csproj",
+        "projectName": "Business.Mapper",
+        "projectPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.Mapper\\Business.Mapper.csproj",
+        "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\Business.DTO.csproj": {
+                "projectPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Business\\Business.DTO\\Business.DTO.csproj"
+              },
+              "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\Data.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\Data.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\Data.Entity.csproj",
+        "projectName": "Data.Entity",
+        "projectPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\Data.Entity.csproj",
+        "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aura\\Desktop\\Simplon\\Rendus\\AuRhapsody\\AuRhapsody\\AuRhapsody API\\Data\\Data.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Context.deps.json
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Context.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Context.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Context.Contract.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Context.Contract.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\bin\Debug\net7.0\Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.csproj.AssemblyReference.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.csproj.CopyComplete
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\refint\Data.Context.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\Data.Context.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Data\Data.Context\obj\Debug\net7.0\ref\Data.Context.dll

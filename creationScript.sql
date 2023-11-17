@@ -6,7 +6,7 @@ CREATE TABLE Artist(
    ArtistBiography TEXT,
    ArtistWebsite VARCHAR(100) ,
    ArtistImage VARCHAR(150)  NOT NULL,
-   ArtistActive BOOLEAN NOT NULL,
+   ArtistActive BOOLEAN NOT NULL DEFAULT 1,
    PRIMARY KEY(ArtistID)
 );
 
@@ -18,7 +18,7 @@ CREATE TABLE Band(
    BandBiography TEXT,
    BandWebsite VARCHAR(100) ,
    BandImage VARCHAR(150)  NOT NULL,
-   BandActive BOOLEAN NOT NULL,
+   BandActive BOOLEAN NOT NULL DEFAULT 1,
    PRIMARY KEY(BandID)
 );
 

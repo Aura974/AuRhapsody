@@ -1,0 +1,17 @@
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Business.Mapper.deps.json
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Business.Mapper.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Business.Mapper.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Business.DTO.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Data.Entity.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Data.Entity.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\bin\Debug\net7.0\Business.DTO.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.csproj.AssemblyReference.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.AssemblyInfoInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.AssemblyInfo.cs
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.csproj.CopyComplete
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\refint\Business.Mapper.dll
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\Business.Mapper.pdb
+C:\Users\Aura\Desktop\Simplon\Rendus\AuRhapsody\AuRhapsody\AuRhapsody API\Business\Business.Mapper\obj\Debug\net7.0\ref\Business.Mapper.dll
