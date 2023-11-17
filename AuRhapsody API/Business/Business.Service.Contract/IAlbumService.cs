@@ -42,6 +42,6 @@ namespace Business.Service.Contract
         /// Returns a list of all albums.
         /// </summary>
         /// <returns></returns>
-        Task<List<ReadAlbumDTO>> GetAllAlbums();
+        Task<List<ReadAlbumDTO>> GetAllAlbums(string? artistName = null, string? bandName = null, string? sortBy = null);
     }
 }

@@ -100,9 +100,9 @@ namespace Business.Service
         /// Returns a list of all albums.
         /// </summary>
         /// <returns></returns>
-        public async Task<List<ReadAlbumDTO>> GetAllAlbums()
+        public async Task<List<ReadAlbumDTO>> GetAllAlbums(string? artistName = null, string? bandName = null, string? sortBy = null)
         {
-            var albums = await _albumRepository.GetAllAlbums().ConfigureAwait(false);
+            var albums = await _albumRepository.GetAllAlbums(artistName, bandName, sortBy).ConfigureAwait(false);
 
             List<ReadAlbumDTO> readAlbumDTOs = new List<ReadAlbumDTO>();
 
